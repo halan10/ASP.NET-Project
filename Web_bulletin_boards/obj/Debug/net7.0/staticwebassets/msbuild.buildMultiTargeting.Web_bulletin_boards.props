@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Web_bulletin_boards.props" />
+</Project>
